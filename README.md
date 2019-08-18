@@ -1,4 +1,5 @@
 # BaldPhone Screenshots [![Build Status](https://travis-ci.com/UriahShaulMandel/BaldPhone.svg?branch=master)](https://travis-ci.com/UriahShaulMandel/BaldPhone)
+Click [here](https://github.com/UriahShaulMandel/BaldPhoneScreenshots/blob/master/AUTO_GENERATED.md) for auto generated screenshots
 
 
 | Language\ Screen | English                                                                                                                                                   | Hebrew                                                                                                                                                    | French                                                                                                                                                    | German                                                                                                                                                    |

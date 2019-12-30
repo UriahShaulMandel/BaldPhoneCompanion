@@ -1,4 +1,18 @@
-# [BaldPhone](https://github.com/UriahShaulMandel/BaldPhone) Screenshots [![Build Status](https://travis-ci.com/UriahShaulMandel/BaldPhone.svg?branch=master)](https://travis-ci.com/UriahShaulMandel/BaldPhone)
+# [BaldPhone](https://github.com/UriahShaulMandel/BaldPhone) Companion Repository [![Build Status](https://travis-ci.com/UriahShaulMandel/BaldPhone.svg?branch=master)](https://travis-ci.com/UriahShaulMandel/BaldPhone)
+This repo contains Screenshots, Auto-Generated Apks and Backups for BaldPhone users database. Everything is licensed under Apache 2.0, so feel free to use
+
+# 
+
+#### BaldPhone users database:
+1. [Users](https://github.com/UriahShaulMandel/BaldPhoneCompanion/blob/master/users.json)
+2. [Users over time](https://github.com/UriahShaulMandel/BaldPhoneCompanion/blob/master/users_track.json) (event type: {1 : update, 0 : download})
+
+# 
+
+#### [Apk generated from latest UriahShaulMandel/BaldPhone/master commit](https://github.com/UriahShaulMandel/BaldPhoneCompanion/raw/master/apks/master/tmp_apk.apk).
+**Only for testing!**, for regular APK download please visit [BaldPhone's main repo](https://github.com/UriahShaulMandel/BaldPhone)
+
+# 
 
 ## NOTE - due to a [bug](https://github.com/YarikSOffice/LanguageTest/issues/6), currently, only the English screenshots will be up to date
 
